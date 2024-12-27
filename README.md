@@ -1,1 +1,1 @@
-Welcome to git and github
+This is version control system
